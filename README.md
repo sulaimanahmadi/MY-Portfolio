@@ -32,8 +32,9 @@ Linters
 ## Deployment
 Github
 
-## Authors
-👤 Sulaiman Ahmadi
+
+👤 sulaiman Ahmadi
+>>>>>>> 9210cac3382e3c448e5dac21f14957932f320d3d
  [@github account](https://github.com/sulaimanahmadi)
  [@LinkedIn Account](https://www.linkedin.com/in/mohammad-sulaiman-ahmadi-555315261/)
 
@@ -52,7 +53,9 @@ Github
 
 ## My-Portfolio Online version
 
-https://github.com/sulaimanahmadi/MY-Portfolio/
+
+https://github.com/sulaimanahmadi/MY-Portfolio
+>>>>>>> 9210cac3382e3c448e5dac21f14957932f320d3d
 
 ### Contributing
 Contributions, issues, and feature requests are welcome!
