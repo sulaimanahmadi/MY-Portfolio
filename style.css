@@ -73,7 +73,7 @@ h1 {
 }
 
 h2 {
-  color: #FFF5E1;
+  color: #fff5e1;
   font-family: "Roboto", sans-serif;
   font-size: 24px;
   font-style: normal;
@@ -106,7 +106,6 @@ p {
   display: flex;
   gap: 22.3px;
   margin-bottom: 130px;
-  
 }
 
 .social-media > li {
