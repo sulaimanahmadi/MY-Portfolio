@@ -13,7 +13,7 @@ Live Demo Link
 #### Getting Started
 Instructions on how to access my project locally. To Access my project locally please follow the following instructions;
 
-Enter this url: https://github.com/eaesmat/My-Portfolio in your web browser.
+Enter this url: https://github.com/sulaimanahmadi/MY-Portfolio in your web browser.
 Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
 Select download Zip option from drop down menu.
 Once the download is complete you will be able to access my project locally.
@@ -33,9 +33,9 @@ Linters
 Github
 
 ## Authors
-👤 Esmatullah Ahmadzai
- [@github account](https://github.com/eaesmat)
- [@LinkedIn Account](https://www.linkedin.com/in/esmatullah-ahmadzai-56bb9423b/)
+👤 Sulaiman Ahmadi
+ [@github account](https://github.com/sulaimanahmadi)
+ [@LinkedIn Account](https://www.linkedin.com/in/mohammad-sulaiman-ahmadi-555315261/)
 
 👤 Tuyishimire Eric
  [@github account](https://github.com/TuyishimireEric)
@@ -52,7 +52,7 @@ Github
 
 ## My-Portfolio Online version
 
-https://eaesmat.github.io/My-Portfolio/
+https://github.com/sulaimanahmadi/MY-Portfolio/
 
 ### Contributing
 Contributions, issues, and feature requests are welcome!
